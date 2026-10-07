@@ -68,57 +68,57 @@ IoT fleet management is a thriving open-source ecosystem. Self-hosting provides 
 
 ### ⭐ Top Open-Source Repositories (Sorted by Stars)
 
-Below repositories are **sorted in descending order by GitHub Star count**. Click the star badge beside any repository to inspect its live stargazers on GitHub!
+Below repositories are **sorted in descending order by GitHub Stars_Count**. Click the Stars_Badge beside any repository to inspect its live stargazers on GitHub!
 
-1. **[K3s](https://github.com/rancher/k3s)** [![GitHub stars](https://img.shields.io/github/stars/rancher/k3s?style=social&color=white)](https://github.com/rancher/k3s/stargazers)  
+1. **[K3s](https://github.com/rancher/k3s)** [![GitHub_Stars](https://img.shields.io/github/stars/rancher/k3s?style=social&color=white)](https://github.com/rancher/k3s/stargazers)  
    *Lightweight Kubernetes designed for IoT, Edge, and ARM devices. Simple, secure binary under 100MB for orchestrating containerized edge fleets.*
 
-2. **[ThingsBoard](https://github.com/thingsboard/thingsboard)** [![GitHub stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers)  
+2. **[ThingsBoard](https://github.com/thingsboard/thingsboard)** [![GitHub_Stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers)  
    *Open-source IoT platform for device management, data collection, processing, and rich real-time visualization dashboards with MQTT/CoAP/HTTP.*
 
-3. **[EMQX](https://github.com/emqx/emqx)** [![GitHub stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)  
+3. **[EMQX](https://github.com/emqx/emqx)** [![GitHub_Stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)  
    *Ultra-scalable open-source MQTT broker for IoT, IIoT, and connected vehicle fleets capable of handling millions of concurrent device connections.*
 
-4. **[ESPHome](https://github.com/esphome/esphome)** [![GitHub stars](https://img.shields.io/github/stars/esphome/esphome?style=social&color=white)](https://github.com/esphome/esphome/stargazers)  
+4. **[ESPHome](https://github.com/esphome/esphome)** [![GitHub_Stars](https://img.shields.io/github/stars/esphome/esphome?style=social&color=white)](https://github.com/esphome/esphome/stargazers)  
    *System to control ESP8266/ESP32 devices by simple configuration files and manage device fleets remotely with over-the-air (OTA) updates.*
 
-5. **[EdgeX Foundry](https://github.com/edgexfoundry/edgex-go)** [![GitHub stars](https://img.shields.io/github/stars/edgexfoundry/edgex-go?style=social&color=white)](https://github.com/edgexfoundry/edgex-go/stargazers)  
+5. **[EdgeX Foundry](https://github.com/edgexfoundry/edgex-go)** [![GitHub_Stars](https://img.shields.io/github/stars/edgexfoundry/edgex-go?style=social&color=white)](https://github.com/edgexfoundry/edgex-go/stargazers)  
    *Vendor-neutral open-source software platform hosted by LF Edge, providing a plug-and-play microservices framework for IoT edge computing.*
 
-6. **[Mender Client & Server](https://github.com/mendersoftware/mender)** [![GitHub stars](https://img.shields.io/github/stars/mendersoftware/mender?style=social&color=white)](https://github.com/mendersoftware/mender/stargazers)  
+6. **[Mender Client & Server](https://github.com/mendersoftware/mender)** [![GitHub_Stars](https://img.shields.io/github/stars/mendersoftware/mender?style=social&color=white)](https://github.com/mendersoftware/mender/stargazers)  
    *Production-proven open-source OTA software update manager for embedded Linux devices with dual A/B partition updates and automatic rollback.*
 
-7. **[Mongoose OS](https://github.com/cesanta/mongoose-os)** [![GitHub stars](https://img.shields.io/github/stars/cesanta/mongoose-os?style=social&color=white)](https://github.com/cesanta/mongoose-os/stargazers)  
+7. **[Mongoose OS](https://github.com/cesanta/mongoose-os)** [![GitHub_Stars](https://img.shields.io/github/stars/cesanta/mongoose-os?style=social&color=white)](https://github.com/cesanta/mongoose-os/stargazers)  
    *Open-source IoT firmware development framework for ESP32, ESP8266, STM32, and CC3200 with built-in OTA updates and cloud integration.*
 
-8. **[Eclipse hawkBit](https://github.com/eclipse-hawkbit/hawkbit)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-hawkbit/hawkbit?style=social&color=white)](https://github.com/eclipse-hawkbit/hawkbit/stargazers)  
+8. **[Eclipse hawkBit](https://github.com/eclipse-hawkbit/hawkbit)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-hawkbit/hawkbit?style=social&color=white)](https://github.com/eclipse-hawkbit/hawkbit/stargazers)  
    *Domain-independent back-end framework for rolling out software updates to constrained edge devices, featuring multi-tenancy and rollout groups.*
 
-9. **[OpenRemote](https://github.com/openremote/openremote)** [![GitHub stars](https://img.shields.io/github/stars/openremote/openremote?style=social&color=white)](https://github.com/openremote/openremote/stargazers)  
+9. **[OpenRemote](https://github.com/openremote/openremote)** [![GitHub_Stars](https://img.shields.io/github/stars/openremote/openremote?style=social&color=white)](https://github.com/openremote/openremote/stargazers)  
    *100% open-source IoT device management and visualization platform targeted at smart cities, energy management, and smart building fleets.*
 
-10. **[SWUpdate](https://github.com/sbabic/swupdate)** [![GitHub stars](https://img.shields.io/github/stars/sbabic/swupdate?style=social&color=white)](https://github.com/sbabic/swupdate/stargazers)  
+10. **[SWUpdate](https://github.com/sbabic/swupdate)** [![GitHub_Stars](https://img.shields.io/github/stars/sbabic/swupdate?style=social&color=white)](https://github.com/sbabic/swupdate/stargazers)  
     *Flexible Linux embedded update agent supporting A/B partition updates, single-copy restoration, and integration with Eclipse hawkBit.*
 
-11. **[RAUC](https://github.com/rauc/rauc)** [![GitHub stars](https://img.shields.io/github/stars/rauc/rauc?style=social&color=white)](https://github.com/rauc/rauc/stargazers)  
+11. **[RAUC](https://github.com/rauc/rauc)** [![GitHub_Stars](https://img.shields.io/github/stars/rauc/rauc?style=social&color=white)](https://github.com/rauc/rauc/stargazers)  
     *Lightweight, safe, and secure update framework for embedded Linux, specializing in A/B updates, cryptographic verification, and rollback.*
 
-12. **[Magistrala (Mainflux)](https://github.com/absmach/magistrala)** [![GitHub stars](https://img.shields.io/github/stars/absmach/magistrala?style=social&color=white)](https://github.com/absmach/magistrala/stargazers)  
+12. **[Magistrala (Mainflux)](https://github.com/absmach/magistrala)** [![GitHub_Stars](https://img.shields.io/github/stars/absmach/magistrala?style=social&color=white)](https://github.com/absmach/magistrala/stargazers)  
     *High-performance, Go-based, cloud-native open-source IoT platform offering fine-grained identity, device management, and security policies.*
 
-13. **[ChirpStack](https://github.com/chirpstack/chirpstack)** [![GitHub stars](https://img.shields.io/github/stars/chirpstack/chirpstack?style=social&color=white)](https://github.com/chirpstack/chirpstack/stargazers)  
+13. **[ChirpStack](https://github.com/chirpstack/chirpstack)** [![GitHub_Stars](https://img.shields.io/github/stars/chirpstack/chirpstack?style=social&color=white)](https://github.com/chirpstack/chirpstack/stargazers)  
     *Open-source LoRaWAN Network Server stack providing device management, gateway orchestration, and payload decryption for LoRaWAN fleets.*
 
-14. **[OpenBalena](https://github.com/balena-io/open-balena)** [![GitHub stars](https://img.shields.io/github/stars/balena-io/open-balena?style=social&color=white)](https://github.com/balena-io/open-balena/stargazers)  
+14. **[OpenBalena](https://github.com/balena-io/open-balena)** [![GitHub_Stars](https://img.shields.io/github/stars/balena-io/open-balena?style=social&color=white)](https://github.com/balena-io/open-balena/stargazers)  
     *Open-source backend services for managing balenaOS device fleets, enabling self-hosted container deployments and remote SSH access.*
 
-15. **[Pantavisor](https://github.com/pantavisor/pantavisor)** [![GitHub stars](https://img.shields.io/github/stars/pantavisor/pantavisor?style=social&color=white)](https://github.com/pantavisor/pantavisor/stargazers)  
+15. **[Pantavisor](https://github.com/pantavisor/pantavisor)** [![GitHub_Stars](https://img.shields.io/github/stars/pantavisor/pantavisor?style=social&color=white)](https://github.com/pantavisor/pantavisor/stargazers)  
     *Containerized Linux system architecture for embedded devices using LXC containers for modular firmware, updates, and device management.*
 
-16. **[NervesHub](https://github.com/nerves-hub/nerves_hub_web)** [![GitHub stars](https://img.shields.io/github/stars/nerves-hub/nerves_hub_web?style=social&color=white)](https://github.com/nerves-hub/nerves_hub_web/stargazers)  
+16. **[NervesHub](https://github.com/nerves-hub/nerves_hub_web)** [![GitHub_Stars](https://img.shields.io/github/stars/nerves-hub/nerves_hub_web?style=social&color=white)](https://github.com/nerves-hub/nerves_hub_web/stargazers)  
     *Open-source platform for secure OTA firmware updates and fleet management of Elixir/Nerves embedded devices, proven at scale.*
 
-17. **[NAOS](https://github.com/256dpi/naos)** [![GitHub stars](https://img.shields.io/github/stars/256dpi/naos?style=social&color=white)](https://github.com/256dpi/naos/stargazers)  
+17. **[NAOS](https://github.com/256dpi/naos)** [![GitHub_Stars](https://img.shields.io/github/stars/256dpi/naos?style=social&color=white)](https://github.com/256dpi/naos/stargazers)  
     *Standardized remote management framework and CLI tools specifically for ESP32 microcontroller fleets, featuring live log tailing and updates.*
 
 ---
